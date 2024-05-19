@@ -1,7 +1,7 @@
 'use strict';
 document.querySelector('body').style.backgroundColor = "#009933";
 // the following will give the random number between 0-20
-let randomNumber = Math.floor(Math.random() * 21);
+let randomNumber = Math.floor(Math.random() * 20) + 1;
 console.log("randomNumber--->",randomNumber);
 
 // choosing let because, the scoreValue will keep changing...!
