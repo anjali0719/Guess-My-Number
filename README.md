@@ -1,4 +1,4 @@
-# Guess-My-Number 💭❓
+# Guess My Number 💭❓
 **Technologies Used:** 
 1. HTML
 2. CSS
